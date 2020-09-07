@@ -1,0 +1,15 @@
+C:\Users\aldeb\source\repos\bot\bot\bin\Debug\bot.exe.config
+C:\Users\aldeb\source\repos\bot\bot\bin\Debug\bot.exe
+C:\Users\aldeb\source\repos\bot\bot\bin\Debug\bot.pdb
+C:\Users\aldeb\source\repos\bot\bot\bin\Debug\WebDriver.dll
+C:\Users\aldeb\source\repos\bot\bot\bin\Debug\WebDriver.Support.dll
+C:\Users\aldeb\source\repos\bot\bot\bin\Debug\WebDriver.xml
+C:\Users\aldeb\source\repos\bot\bot\obj\Debug\bot.csprojAssemblyReference.cache
+C:\Users\aldeb\source\repos\bot\bot\obj\Debug\bot.csproj.CoreCompileInputs.cache
+C:\Users\aldeb\source\repos\bot\bot\obj\Debug\bot.csproj.CopyComplete
+C:\Users\aldeb\source\repos\bot\bot\obj\Debug\bot.exe
+C:\Users\aldeb\source\repos\bot\bot\obj\Debug\bot.pdb
+C:\Users\aldeb\source\repos\bot\bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aldeb\source\repos\bot\bot\bin\Debug\Telegram.Bot.dll
+C:\Users\aldeb\source\repos\bot\bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aldeb\source\repos\bot\bot\bin\Debug\Telegram.Bot.xml
